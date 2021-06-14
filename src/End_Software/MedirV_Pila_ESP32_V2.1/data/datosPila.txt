@@ -1,0 +1,2 @@
+n_muestra   ;  Tensión ( V) ; Corriente (mA) ;  Potencia (mW ) ; Carga (mAh ) ; miliJulios ( mJ )
+
